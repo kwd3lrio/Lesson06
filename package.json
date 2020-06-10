@@ -1,0 +1,16 @@
+{
+  "name": "knockout-chap6",
+  "version": "1.0.0",
+  "description": "practice by k.w.d.r",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k.w.d.r",
+  "license": "MIT",
+  "devDependencies": {
+    "knockout": "^3.5.1",
+    "mach": "^1.3.8"
+  },
+  "dependencies": {}
+}
